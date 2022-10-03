@@ -2,7 +2,7 @@
   "name": "react-memoization-hooks",
   "description": "react-memoization-hooks",
   "version": "0.1.0",
-  "author": "vitormalencar <vitor.maia.alencar@gmail.com>",
+  "author": "vitormalencar <vitor.maia.alencar@gmail.com> & ericknathan <erick.capito@hotmail.com>",
   "browserslist": {
     "production": [
       ">0.2%",
